@@ -15,7 +15,8 @@ const Text = () => {
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
                 error totam unde natus assumenda. Delectus voluptates incidunt
-                dignissimos libero similique.
+                dignissimos libero similique. Lorem ipsum dolor sit amet
+                consectetur adipisicing elit.
             </p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
         </>
