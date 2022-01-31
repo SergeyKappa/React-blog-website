@@ -8,6 +8,13 @@ const Header = (props) => {
         </h1>
     )
 }
+const Main = () => {
+    return (
+        <>
+            <h2>Hello world!</h2>
+        </>
+    )
+}
 
 const Text = () => {
     return (
@@ -28,6 +35,7 @@ const App = () => {
         <>
             <Header title="React.js" id={1} />
             <Header title="App.js" id={2} />
+            <Main />
             <Text />
         </>
     )
